@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1_ER1Z0zA02UsPjUiZXefg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/loans/result/66f636cb8e09270047bd383a/3/true" DesignTimeRectangle="376, 775, 1165, 36" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzyAccuracy="0.66" FuzzySelectorArgument="&lt;webctrl id='loanID' tag='H4' type='' class='text-black' /&gt;" Guid="0b8f1906-f7f7-4a62-ab0e-db3c0f03e29a" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df6aef42-2e87-475f-8d69-ed8a6b8b4b66" CvTextArea="736, 776, 442, 28" CvTextArgument="66f636cb8e09270047bd383a" CvType="Text" DesignTimeRectangle="736, 776, 442, 30" ElementType="Text" Guid="ef48909c-671f-4a0c-b80f-4d62007f5f5f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="472ff2bc8278f788c28f4b74acff44e8.png" xmlns="">0fPvZpIEbBkqQ6RU68yt00A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
